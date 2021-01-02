@@ -29,7 +29,6 @@ Set-up:
 * Plot the results using the DataFrame `plot` method.
 * Used Pandas to print the summary statistics for the precipitation data.
     ![prcp](Images/prcp.png)
-    
     ![stats](Images/stats.JPG)
 
 ### Station Analysis
@@ -41,7 +40,8 @@ Set-up:
 * Designed a query to retrieve the last 12 months of temperature observation data (tobs).
 * Filter by the station with the highest number of observations.
 * Plot the results as a histogram with `bins=12`.
-    ![temp](Images/temp.png)
+   
+   ![temp](Images/temp.png)
    
 
 
