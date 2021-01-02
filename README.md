@@ -9,8 +9,8 @@
 Technologies Used: `SQLAlchemy`, `Pandas`, `Matplotlib` and `FLASK`
 
 This challenge is done in 2 steps:
-- Climate Analysis using SQLAlchemy and Python - [Climate_Analysis.ipynb](Climate_Analysis.ipynb)
-- Design a Flask API Web Climate App 
+- Climate Analysis using SQLAlchemy and Python - [Climate Analysis](Climate_Analysis.ipynb)
+- Design a Flask API Web Climate App - [Flask](app.py)
 - - -
 ## Step 1 - Climate Analysis and Exploration
 
@@ -29,6 +29,7 @@ Set-up:
 * Plot the results using the DataFrame `plot` method.
 * Used Pandas to print the summary statistics for the precipitation data.
     ![prcp](Images/prcp.png)
+    ![stats](Images/stats.JPG)
 
 ### Station Analysis
 
@@ -39,7 +40,9 @@ Set-up:
 * Designed a query to retrieve the last 12 months of temperature observation data (tobs).
 * Filter by the station with the highest number of observations.
 * Plot the results as a histogram with `bins=12`.
-    ![temp](Images/temp.png)
+   
+   ![temp](Images/temp.png)
+   
 
 
 ### Navi Sohi | Data Analytics & Visualization
