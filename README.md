@@ -10,7 +10,7 @@ Technologies Used: `SQLAlchemy`, `Pandas`, `Matplotlib` and `FLASK`
 
 This challenge is done in 2 steps:
 - Climate Analysis using SQLAlchemy and Python - [Climate Analysis](Climate_Analysis.ipynb)
-- Design a Flask API Web Climate App - [Flask](app.py)
+- Design a Flask API Web Climate App - [Flask](Codes/app.py)
 - - -
 ## Step 1 - Climate Analysis and Exploration
 
