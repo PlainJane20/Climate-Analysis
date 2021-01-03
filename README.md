@@ -12,7 +12,7 @@ This challenge is done in 2 steps:
 - Climate Analysis using SQLAlchemy and Python - [Climate Analysis](Codes/Climate_Analysis.ipynb)
 - Design a Flask API Web Climate App - [Flask](Codes/app.py)
 - - -
-## Step 1 - Climate Analysis and Exploration
+## Step 1 - Climate Analysis
 
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
