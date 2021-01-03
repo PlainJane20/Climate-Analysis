@@ -39,7 +39,7 @@ Set-up:
 * Found out which station has the highest number of observations.
 * Designed a query to retrieve the last 12 months of temperature observation data (tobs).
 * Filter by the station with the highest number of observations.
-* Plot the results as a histogram with `bins=12`.
+* Plot the results as a histogram.
    
    ![temp](Images/temp.png)
    
