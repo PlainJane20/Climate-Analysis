@@ -42,7 +42,14 @@ Set-up:
 * Plot the results as a histogram.
    
    ![temp](Images/temp.png)
-   
 
+### Built with:
+* Python
+* Pandas
+* SQLAlchemy
+* HTML
+* Flask
+* Matplotlib
+* Jupyter Notebook
 
 ### Navi Sohi | Data Analytics & Visualization
