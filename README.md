@@ -6,7 +6,7 @@
 - Use Python and SQLAlchemy ORM queries with provided [hawaii.sqlite](Resources/hawaii.sqlite) to reflect tables into a new model and perform analysis of Hawaii climate.
 - Build a Flask Web app using the served queries that will return JSONified query results from API endpoints.
 
-Technologies Used: `SQLAlchemy`, `Pandas`, `Matplotlib` and `FLASK`
+Technologies Used: 'Jupyter Notebook', 'Python', 'Pandas', `SQLAlchemy`, 'HTML', `Matplotlib` and `FLASK`
 
 This challenge is done in 2 steps:
 - Climate Analysis using SQLAlchemy and Python - [Climate Analysis](Codes/Climate_Analysis.ipynb)
@@ -42,14 +42,5 @@ Set-up:
 * Plot the results as a histogram.
    
    ![temp](Images/temp.png)
-
-### Built with:
-* Python
-* Pandas
-* SQLAlchemy
-* HTML
-* Flask
-* Matplotlib
-* Jupyter Notebook
 
 ### Navi Sohi | Data Analytics & Visualization
